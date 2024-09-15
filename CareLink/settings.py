@@ -146,7 +146,7 @@ SECRET_KEY = 'django-insecure-5+uk0p1*h1=3#qimpg!r0y4l1p!yse#^020sk_4+*!nnzod)5m
 DEBUG = True  # Set to False in production
 
 # Add the Render domain or your custom domain
-ALLOWED_HOSTS = ['your-render-app-name.onrender.com', 'your-custom-domain.com','127.0.0.1']
+ALLOWED_HOSTS = ['carelink-n7cy.onrender.com', 'your-custom-domain.com','127.0.0.1']
 
 # Application definition
 INSTALLED_APPS = [
